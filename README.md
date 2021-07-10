@@ -17,7 +17,7 @@ The purpose of this project is to learn coding in VBA as an introduction to prog
 ## Analysis and Challenges
 We were given an Excel file that we converted into a Macro enabled format and named it *VBA_Challenge.xlsm*. We imported *VBA_Challenge.vbs* in the macro of the file and modified it according to the directions given. The challenge was to refactor the script by using arrays so that the program would run much faster compared to not using arrays originally. The macro, _AllStocksAnalysisRefactored_ was partially filled. Our goal was to fill in the blank with arrays, initialize variables, write some _if_ conditions according to the instructions given in the challenge. 
 
-My largest challenge in completing the **_Deliverable 1_** was understanding the concept of arrays and how it sores the data in bins. Once that was understood, the rest of the codes logic seemed straight forward. 
+My largest challenge in completing the **_Deliverable 1_** was understanding the concept of arrays and how it sores the data in bins. Once that was understood, the rest of the code's logic seemed straight forward. Please refer to the included file, _VBA_Challenge.vbs_ for the script.
 
 
 ## Results
