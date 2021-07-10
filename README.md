@@ -25,10 +25,10 @@ I created a new worksheet, **_Refactor Challenge_** for my output. ( Please note
 
 
 <p style="text-align: Left ;"> <strong> 2017 </strong>
-<img src='./resources/VBA_Challenge_2017.png'>
+<img src='Resources/VBA_Challenge_2017.png'>
 
 <p style="text-align: Left ;"> <strong> 2018 </strong>
-<img src='./resources/VBA_Challenge_2018.png'>
+<img src='Resources/VBA_Challenge_2018.png'>
 
 
 ## Conclusion
